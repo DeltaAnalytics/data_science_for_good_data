@@ -1,0 +1,649 @@
+,country_code,image.id,image.template_id,lender_id,loan_id,name,uid,whereabouts
+0,DE,726677.0,1.0,ingo2254,1534067,Ingo,ingo2254,
+1,US,747052.0,1.0,jody3170,1534067,jody,jody3170,martinez CA
+2,US,726677.0,1.0,will8174,1534067,Will,will8174,Houston TX
+3,US,2576840.0,1.0,roymichele6866,1534067,Roy & Michele,roymichele6866,Arlington TX
+4,,1821438.0,1.0,dennis5507,1534061,Dennis,dennis5507,
+5,CN,1521192.0,1.0,elaine6694,1534061,Elaine,elaine6694,Shanghai
+6,,726677.0,1.0,vivien4394,1534061,Vivien,vivien4394,
+7,US,726677.0,1.0,will8174,1534061,Will,will8174,Houston TX
+8,,2463910.0,1.0,bobbibrown7459,1534061,Bobbi Brown Cosmetics,bobbibrown7459,
+9,US,907254.0,1.0,andy9308,1534061,Andy,andy9308,Twin Cities MN
+10,AU,726677.0,1.0,simone2073,1534041,Simone,simone2073,Brisbane Qld
+11,,726677.0,1.0,dane6100,1534041,Dane,dane6100,
+12,US,726677.0,1.0,will8174,1534041,Will,will8174,Houston TX
+13,AT,1426393.0,1.0,roland5687,1534041,Roland,roland5687,
+14,AU,2720296.0,1.0,allan7031,1534037,Allan,allan7031,Sydney NSW
+15,,726677.0,1.0,dane6100,1534037,Dane,dane6100,
+16,US,726677.0,1.0,will8174,1534037,Will,will8174,Houston TX
+17,AT,1426393.0,1.0,roland5687,1534037,Roland,roland5687,
+18,AU,726677.0,1.0,simone2073,1534044,Simone,simone2073,Brisbane Qld
+19,,726677.0,1.0,dane6100,1534044,Dane,dane6100,
+20,US,726677.0,1.0,will8174,1534044,Will,will8174,Houston TX
+21,AT,1426393.0,1.0,roland5687,1534044,Roland,roland5687,
+22,US,726677.0,1.0,will8174,1534056,Will,will8174,Houston TX
+23,,2463910.0,1.0,bobbibrown7459,1534056,Bobbi Brown Cosmetics,bobbibrown7459,
+24,,726677.0,1.0,vivien4394,1534056,Vivien,vivien4394,
+25,QA,726677.0,1.0,saleh6971,1535829,Saleh,saleh6971,Doha Ad Dawhah
+26,,726677.0,1.0,anonymoussupporter9222,1533683,Anonymous Supporter,anonymoussupporter9222,
+27,,726677.0,1.0,,1533683,Anonymous,,
+28,US,727437.0,1.0,stacey9092,1533761,Stacey,stacey9092,Shelton Wasington
+29,US,726677.0,1.0,foundationfordreamers,1533761,Foundation for Dreamers,foundationfordreamers,Austin TX
+30,US,581038.0,1.0,robert2288,1533320,Robert,robert2288,San Francisco CA
+31,US,634824.0,1.0,aaron83574977,1533320,Aaron,aaron83574977,San Francisco Bay Area CA
+32,,726677.0,1.0,,1533320,Anonymous,,
+33,US,946406.0,1.0,P2PScottBanister,1533320,Poverty2Prosperity.org Scott Banister,p2pscottbanister,San Francisco CA
+34,,726677.0,1.0,,1533741,Anonymous,,
+35,US,1085947.0,1.0,betina3632,1533741,Betina,betina3632,Islandia NY
+36,,726677.0,1.0,,1533741,Anonymous,,
+37,,2799177.0,1.0,micah6214,1533741,Micah,micah6214,
+38,,726677.0,1.0,,1533741,Anonymous,,
+39,NZ,1381724.0,1.0,scottnz,1533741,Scott,scottnz,Christchurch Canterbury
+40,MY,726677.0,1.0,preetha6548,1533741,Preetha,preetha6548,
+41,US,2800901.0,1.0,themissionbeltco,1533741,Mission Belt Co,themissionbeltco,Orem Utah
+42,US,581038.0,1.0,robert2288,1533741,Robert,robert2288,San Francisco CA
+43,US,726677.0,1.0,will8174,1533741,Will,will8174,Houston TX
+44,,726677.0,1.0,allison9745,1533741,Allison,allison9745,Brooklyn NY
+45,AU,2777291.0,1.0,samuel6127,1533700,Samuel,samuel6127,Melbourne Victoria
+46,,2587633.0,1.0,lisa7710,1533700,Lisa,lisa7710,
+47,US,1639691.0,1.0,anthony98533733,1533700,Anthony,anthony98533733,Detroit MI
+48,,726677.0,1.0,neven5819,1533700,Neven,neven5819,
+49,US,2800901.0,1.0,themissionbeltco,1533700,Mission Belt Co,themissionbeltco,Orem Utah
+50,US,726677.0,1.0,martin1578,1533700,Martin,martin1578,Syosset NY
+51,,2393178.0,1.0,jacqui2943,1533702,Jacqui,jacqui2943,
+52,US,726677.0,1.0,sarah1267,1533706,Sarah,sarah1267,Austin TX
+53,,726677.0,1.0,,1533706,Anonymous,,
+54,US,1116792.0,1.0,gene1980,1533706,Gene,gene1980,Glen Allen VA
+55,US,2385.0,1.0,johnmichael6823,1533706,John-Michael,johnmichael6823,New York NY
+56,US,158388.0,1.0,june7708,1533706,June,june7708,Woodside CA
+57,NL,326956.0,1.0,tom8330,1533706,Tom,tom8330,Zeist Utrecht
+58,US,1419628.0,1.0,sharon4317,1533706,Sharon,sharon4317,Santa Rosa CA
+59,,726677.0,1.0,devon7333,1533706,Devon,devon7333,
+60,US,726677.0,1.0,katherine3825,1533706,katherine,katherine3825,Gilroy CA
+61,,726677.0,1.0,dustin6717,1533706,Dustin,dustin6717,
+62,,726677.0,1.0,jaehoon2249,1533706,jaehoon,jaehoon2249,
+63,US,221066.0,1.0,k3530,1533706,kms,k3530,Folsom CA
+64,,726677.0,1.0,anonymoussupporter8039,1533706,Anonymous Supporter,anonymoussupporter8039,
+65,US,1797701.0,1.0,karen1796,1533706,Karen,karen1796,Rancho Santa Margarita CA
+66,DE,2446180.0,1.0,gabriela39217820,1533647,Gabriela,gabriela39217820,Ahrweiler
+67,DE,841222.0,1.0,peter1394,1533647,peter,peter1394,dortmund
+68,,726677.0,1.0,shaun3685,1533647,Shaun,shaun3685,
+69,,2587633.0,1.0,lisa7710,1533647,Lisa,lisa7710,
+70,AU,2541559.0,1.0,matt1609,1533647,Matt,matt1609,Happy Valley South Australia
+71,,726677.0,1.0,lecki1618,1533647,Lecki,lecki1618,
+72,,726677.0,1.0,hayley6704,1533696,Hayley,hayley6704,
+73,,726677.0,1.0,alexa1213,1533696,Alexa,alexa1213,
+74,US,895587.0,1.0,joann2302,1533696,JoAnn,joann2302,Anchorage AK
+75,HR,1214457.0,1.0,radomir8295,1533696,Radomir,radomir8295,Rijeka
+76,GB,2225091.0,1.0,mobilez,1533696,★ mobilez ★,mobilez,
+77,US,76689.0,1.0,impact5673,1533696,IMPACT Incorporated !,impact5673,
+78,GB,803985.0,1.0,isaac5105,1533696,Isaac,isaac5105,London
+79,US,2281009.0,1.0,carmeljuan,1533696,John,carmeljuan,Carmel Valley California
+80,,726677.0,1.0,neven5819,1533696,Neven,neven5819,
+81,,726677.0,1.0,,1533696,Anonymous,,
+82,SE,726677.0,1.0,johan9467,1533666,Johan,johan9467,
+83,DE,982288.0,1.0,markus2619,1533666,Markus Spring,markus2619,Bad Reichenhall Bavaria
+84,AU,1106140.0,1.0,benton,1533666,Benton and Naomi,benton,Queensland
+85,US,2423750.0,1.0,sue2192,1533666,Sue,sue2192,
+86,DE,841222.0,1.0,peter1394,1533666,peter,peter1394,dortmund
+87,,726677.0,1.0,,1533666,Anonymous,,
+88,US,1287847.0,1.0,adriana9419,1533666,Adriana,adriana9419,Denver Colorado
+89,,726677.0,1.0,,1533666,Anonymous,,
+90,CA,1169646.0,1.0,hana1292,1533663,Hana,hana1292,Ottawa Ontario
+91,,726677.0,1.0,ingrid9831,1533663,Ingrid,ingrid9831,
+92,,726677.0,1.0,shirley5652,1533663,Shirley,shirley5652,
+93,AU,726677.0,1.0,richard7953,1533663,Richard,richard7953,
+94,US,2580768.0,1.0,reveleesabeth6944,1533663,Rev. EM,reveleesabeth6944,Oakland CA
+95,,726677.0,1.0,nacho7452,1533663,Nacho,nacho7452,
+96,,726677.0,1.0,pascal6269,1533663,Pascal,pascal6269,
+97,US,726677.0,1.0,ann34134469,1533663,Ann,ann34134469,Glendale AZ
+98,US,2459529.0,1.0,saraheb,1533663,Sarah,saraheb,
+99,US,726677.0,1.0,jon74232050,1533663,Jon,jon74232050,
+100,US,1308721.0,1.0,alex36661,1533663,P. Alexander,alex36661,
+101,,1382228.0,1.0,stephanie7989,1533663,Stephanie,stephanie7989,
+102,BR,1684100.0,1.0,beatriz1990,1533663,Beatriz,beatriz1990,São Paulo
+103,,726677.0,1.0,robert8396,1533663,Robert,robert8396,
+104,CH,182498.0,1.0,tom5360,1533663,Leeners Family,tom5360,Uster
+105,SE,510767.0,1.0,henrik3902,1533663,Henrik,henrik3902,Märsta
+106,,1394089.0,1.0,jenny3234,1533663,Jenny,jenny3234,Scotland
+107,US,726677.0,1.0,david17683861,1533663,David,david17683861,Anaheim Hills CA
+108,US,726677.0,1.0,michael21937592,1533663,Michael,michael21937592,Annapolis MD
+109,,726677.0,1.0,yancy1524,1533663,YANCY,yancy1524,
+110,,726677.0,1.0,jason4082,1533663,Jason,jason4082,
+111,,1271257.0,1.0,matthew66531468,1533663,Matthew,matthew66531468,
+112,,726677.0,1.0,,1533663,Anonymous,,
+113,AU,726677.0,1.0,simone2073,1533663,Simone,simone2073,Brisbane Qld
+114,US,233281.0,1.0,adam3629,1533663,Adam,adam3629,Honolulu HI
+115,US,1638786.0,1.0,stephenandmimi1481,1533663,Stephen and Mimi,stephenandmimi1481,Cascadia Region WA
+116,GB,726677.0,1.0,steven6920,1533663,Steven,steven6920,London
+117,IT,505603.0,1.0,marco4420,1533663,Marco,marco4420,Jesi Marche
+118,GB,726677.0,1.0,jack4467,1533663,Jack,jack4467,Canterbury Kent
+119,,726677.0,1.0,shaun3685,1533663,Shaun,shaun3685,
+120,JP,2859400.0,1.0,kento5197,1533663,Kento,kento5197,
+121,,726677.0,1.0,collene7325,1533663,Collene,collene7325,
+122,AU,2222207.0,1.0,melissa82437688,1533663,Melissa,melissa82437688,
+123,,1545581.0,1.0,cristina6544,1533663,Cristina,cristina6544,
+124,US,2786691.0,1.0,tim4327,1533663,Tim,tim4327,Brooklyn NY
+125,US,108315.0,1.0,billandkimberly4731,1533663,Bill & Kimberly,billandkimberly4731,Charlotte North Carolina
+126,AT,1426393.0,1.0,roland5687,1533663,Roland,roland5687,
+127,AU,1403617.0,1.0,elwin9083,1533663,Elwin,elwin9083,
+128,,726677.0,1.0,jeanette1834,1533663,Jeanette,jeanette1834,
+129,,726677.0,1.0,amanda6863,1533663,amanda,amanda6863,
+130,,1139080.0,1.0,martin41549955,1533663,Martin,martin41549955,
+131,US,726677.0,1.0,martin1578,1533656,Martin,martin1578,Syosset NY
+132,US,2800901.0,1.0,themissionbeltco,1533656,Mission Belt Co,themissionbeltco,Orem Utah
+133,,2622394.0,1.0,deborah36634389,1533656,Deborah,deborah36634389,
+134,,2786754.0,1.0,anika9073,1533644,Anika,anika9073,
+135,,726677.0,1.0,,1533644,Anonymous,,
+136,CA,2446094.0,1.0,bonnie1296,1533644,Bonnie,bonnie1296,
+137,US,1296325.0,1.0,philip4320,1533644,Philip,philip4320,Iowa
+138,US,532108.0,1.0,UUCCH,1533644,Social Justice at UUCCH,uucch,Cherry Hill NJ
+139,DE,726677.0,1.0,dieter1620,1533644,Dieter,dieter1620,
+140,,726677.0,1.0,ann8808,1533644,Ann,ann8808,
+141,,726677.0,1.0,anonymoussupporter8039,1533644,Anonymous Supporter,anonymoussupporter8039,
+142,US,76689.0,1.0,impact5673,1533644,IMPACT Incorporated !,impact5673,
+143,US,82274.0,1.0,gary8205,1533533,Gary,gary8205,Catasauqua PA
+144,,726677.0,1.0,carolyn5325,1533533,Carolyn,carolyn5325,
+145,CA,1121644.0,1.0,keith5598,1533533,Keith,keith5598,Calgary Alberta
+146,US,726677.0,1.0,daniel6723,1533533,Daniel,daniel6723,Orange CA
+147,GB,726677.0,1.0,oliver6471,1533533,Oliver,oliver6471,Reading Berkshire
+148,US,604854.0,1.0,steve5979,1533533,Steve,steve5979,Kimberling City MO
+149,US,726677.0,1.0,jonathan62706414,1533533,Jonathan,jonathan62706414,CA
+150,CA,1940638.0,1.0,ben47669442,1533533,Ben,ben47669442,Listowel ON
+151,US,1509646.0,1.0,nms,1533533,NMS,nms,Minneapolis MN
+152,,726677.0,1.0,,1533533,Anonymous,,
+153,US,634824.0,1.0,aaron83574977,1533533,Aaron,aaron83574977,San Francisco Bay Area CA
+154,GB,1426413.0,1.0,nicholasluder,1533533,Nicholas,nicholasluder,London
+155,,726677.0,1.0,,1533533,Anonymous,,
+156,,726677.0,1.0,neven5819,1533533,Neven,neven5819,
+157,US,726677.0,1.0,james8747,1533539,james,james8747,fenton MO
+158,,726677.0,1.0,,1533539,Anonymous,,
+159,CA,726677.0,1.0,brendan2213,1533539,Brendan,brendan2213,Simcoe Ontario
+160,US,375461.0,1.0,cynthia89612554,1533539,Cynthia,cynthia89612554,Mt. Prospect IL
+161,AT,726677.0,1.0,christoph2157,1533539,Christoph,christoph2157,Bregenz
+162,US,2800901.0,1.0,themissionbeltco,1533539,Mission Belt Co,themissionbeltco,Orem Utah
+163,US,1509646.0,1.0,nms,1533539,NMS,nms,Minneapolis MN
+164,,726677.0,1.0,lecki1618,1533539,Lecki,lecki1618,
+165,DE,726677.0,1.0,maria4235,1533637,Maria,maria4235,Bonn
+166,,726677.0,1.0,ann8808,1533636,Ann,ann8808,
+167,US,2115254.0,1.0,wick,1533636,Pam,wick,Avon Park FL
+168,GB,1716569.0,1.0,liz60647496,1533636,Liz,liz60647496,London
+169,US,1638786.0,1.0,stephenandmimi1481,1533636,Stephen and Mimi,stephenandmimi1481,Cascadia Region WA
+170,GB,726677.0,1.0,steven6920,1533636,Steven,steven6920,London
+171,US,1509646.0,1.0,nms,1533636,NMS,nms,Minneapolis MN
+172,GB,415614.0,1.0,francis9061,1533636,Francis,francis9061,london London
+173,NL,1166418.0,1.0,robertgetreuer,1533636,Robert,robertgetreuer,Tuk
+174,NL,326956.0,1.0,tom8330,1533636,Tom,tom8330,Zeist Utrecht
+175,AU,726677.0,1.0,adonicus,1533636,Adonicus,adonicus,
+176,,726677.0,1.0,anonymoussupporter4391,1533636,Anonymous Supporter,anonymoussupporter4391,
+177,,2423923.0,1.0,limarie9129,1533636,Limarie,limarie9129,
+178,IE,2650218.0,1.0,mark45217622,1533640,Mark,mark45217622,
+179,,726677.0,1.0,stephen4364,1533640,Stephen,stephen4364,
+180,AU,1349246.0,1.0,jan9907,1533640,Jan,jan9907,Melbourne Victoria
+181,,726677.0,1.0,devon7333,1533640,Devon,devon7333,
+182,,726677.0,1.0,alexander3666,1533640,Alexander,alexander3666,
+183,,726677.0,1.0,anonymoussupporter4391,1533640,Anonymous Supporter,anonymoussupporter4391,
+184,CA,726677.0,1.0,deanna2160,1533640,deanna,deanna2160,Thornhill Ontario
+185,US,1509646.0,1.0,nms,1533640,NMS,nms,Minneapolis MN
+186,US,720534.0,1.0,xveganx,1533640,Austin,xveganx,Cardiff-by-the-Sea California
+187,US,1234095.0,1.0,marilynn2420,1533562,Marilynn,marilynn2420,Colorado
+188,,726677.0,1.0,,1533562,Anonymous,,
+189,US,581038.0,1.0,robert2288,1533562,Robert,robert2288,San Francisco CA
+190,CA,726677.0,1.0,deanna2160,1533562,deanna,deanna2160,Thornhill Ontario
+191,,726677.0,1.0,anonymoussupporter4391,1533562,Anonymous Supporter,anonymoussupporter4391,
+192,DE,2399215.0,1.0,sebastian65151942,1533562,Sebastian,sebastian65151942,
+193,US,1509646.0,1.0,nms,1533562,NMS,nms,Minneapolis MN
+194,US,720534.0,1.0,xveganx,1533562,Austin,xveganx,Cardiff-by-the-Sea California
+195,US,726677.0,1.0,kelly9873,1533632,Kelly,kelly9873,Centreville VA
+196,GB,726677.0,1.0,sonia6192,1533632,Sonia,sonia6192,
+197,US,1509646.0,1.0,nms,1533632,NMS,nms,Minneapolis MN
+198,,726677.0,1.0,anonymoussupporter4391,1533632,Anonymous Supporter,anonymoussupporter4391,
+199,,726677.0,1.0,,1533632,Anonymous,,
+200,US,1509646.0,1.0,nms,1533631,NMS,nms,Minneapolis MN
+201,US,726677.0,1.0,sarabjit8247,1533631,Sarabjit,sarabjit8247,WEST CHESTER PENNSYLVANIA
+202,GB,1746623.0,1.0,tony001,1533631,Anthony,tony001,Plymouth
+203,US,726677.0,1.0,JY1024,1533631,Johnny,jy1024,Cantabrigia
+204,MX,1446075.0,1.0,gerardo9849,1533631,Gerardo,gerardo9849,Monterrey NL
+205,,726677.0,1.0,anon23456,1533631,.,anon23456,
+206,US,156339.0,1.0,mike001,1533631,Mike,mike001,Phoenix AZ
+207,,2473221.0,1.0,janet4068,1533631,j,janet4068,
+208,US,2663693.0,1.0,waltraud6139,1533626,Waltraud,waltraud6139,
+209,,726677.0,1.0,linsay5366,1533626,linsay,linsay5366,
+210,,1971614.0,1.0,perarne5529,1533626,Per Arne,perarne5529,
+211,CA,167898.0,1.0,vitalimagery,1533626,Vital Imagery Ltd.,vitalimagery,Brussels Ontario
+212,,726677.0,1.0,,1533626,Anonymous,,
+213,US,537735.0,1.0,jeremyporter,1533626,Jeremy,jeremyporter,Chicago IL
+214,CA,726677.0,1.0,thesocietyofthetinst8535,1533626,The Society of the Tin Star,thesocietyofthetinst8535,Roblin Manitoba
+215,,726677.0,1.0,jim9338,1533626,Jim,jim9338,
+216,,726677.0,1.0,wilma7060,1533626,Wilma,wilma7060,
+217,GB,726677.0,1.0,steven6920,1533626,Steven,steven6920,London
+218,GB,961699.0,1.0,acardwelluk,1533626,Andrew Cardwell,acardwelluk,Littleport CAMBS
+219,AU,1093567.0,1.0,tomandling8912,1533626,Tom,tomandling8912,sydney New South Wales
+220,,726677.0,1.0,,1533626,Anonymous,,
+221,,726677.0,1.0,,1533626,Anonymous,,
+222,,726677.0,1.0,shaun3685,1533626,Shaun,shaun3685,
+223,US,2096001.0,1.0,rael1656,1533626,Rael,rael1656,
+224,SE,251899.0,1.0,gorank5052,1533626,Göran K,gorank5052,Malmö
+225,NL,326956.0,1.0,tom8330,1533626,Tom,tom8330,Zeist Utrecht
+226,GB,803985.0,1.0,isaac5105,1533626,Isaac,isaac5105,London
+227,,2587633.0,1.0,lisa7710,1533626,Lisa,lisa7710,
+228,AU,2541559.0,1.0,matt1609,1533626,Matt,matt1609,Happy Valley South Australia
+229,,726677.0,1.0,leif4385,1533626,Leif,leif4385,
+230,,726677.0,1.0,lecki1618,1533626,Lecki,lecki1618,
+231,US,1509646.0,1.0,nms,1533626,NMS,nms,Minneapolis MN
+232,,726677.0,1.0,,1533626,Anonymous,,
+233,,726677.0,1.0,,1533626,Anonymous,,
+234,,726677.0,1.0,anonymoussupporter4391,1533622,Anonymous Supporter,anonymoussupporter4391,
+235,,726677.0,1.0,,1533622,Anonymous,,
+236,US,2800901.0,1.0,themissionbeltco,1533620,Mission Belt Co,themissionbeltco,Orem Utah
+237,US,726677.0,1.0,martin1578,1533620,Martin,martin1578,Syosset NY
+238,US,726677.0,1.0,will8174,1533613,Will,will8174,Houston TX
+239,US,2800901.0,1.0,themissionbeltco,1533613,Mission Belt Co,themissionbeltco,Orem Utah
+240,,726677.0,1.0,zulki2623,1533613,Zulki,zulki2623,
+241,,2419673.0,1.0,william75888156,1533599,William,william75888156,
+242,,726677.0,1.0,arielle7656,1533599,Arielle,arielle7656,
+243,US,76689.0,1.0,impact5673,1533599,IMPACT Incorporated !,impact5673,
+244,US,726677.0,1.0,phil3165,1533599,Phil,phil3165,Washington DC
+245,US,2800901.0,1.0,themissionbeltco,1533599,Mission Belt Co,themissionbeltco,Orem Utah
+246,US,634824.0,1.0,aaron83574977,1533599,Aaron,aaron83574977,San Francisco Bay Area CA
+247,NL,326956.0,1.0,tom8330,1533599,Tom,tom8330,Zeist Utrecht
+248,GB,2136985.0,1.0,vrdsolution,1533599,VRD Solution,vrdsolution,Welwyn Garden City Hertfordshire
+249,GB,1426413.0,1.0,nicholasluder,1533599,Nicholas,nicholasluder,London
+250,,726677.0,1.0,anonymoussupporter9222,1533599,Anonymous Supporter,anonymoussupporter9222,
+251,,726677.0,1.0,,1533599,Anonymous,,
+252,US,2800901.0,1.0,themissionbeltco,1533602,Mission Belt Co,themissionbeltco,Orem Utah
+253,,726677.0,1.0,,1533602,Anonymous,,
+254,US,726677.0,1.0,will8174,1533602,Will,will8174,Houston TX
+255,US,726677.0,1.0,steve9861,1533602,Steve,steve9861,Louisville Kentucky
+256,,726677.0,1.0,joan6302,1533580,Joan,joan6302,
+257,CA,1309102.0,1.0,jim86422005,1533580,Jim,jim86422005,
+258,US,726677.0,1.0,will8174,1533580,Will,will8174,Houston TX
+259,JP,331057.0,1.0,youhei5601,1533580,youhei,youhei5601,kodaiji kyoto
+260,,726677.0,1.0,mati3286,1533585,Mati,mati3286,
+261,,726677.0,1.0,,1533585,Anonymous,,
+262,US,604854.0,1.0,steve5979,1533585,Steve,steve5979,Kimberling City MO
+263,,726677.0,1.0,linda94537853,1533585,Linda,linda94537853,
+264,,726677.0,1.0,samer3622,1533585,Samer,samer3622,
+265,,726677.0,1.0,,1533585,Anonymous,,
+266,CA,367197.0,1.0,dylan5803,1533585,Dylan Ferreira,dylan5803,Vancouver British Columbia
+267,,726677.0,1.0,neven5819,1533585,Neven,neven5819,
+268,CA,419047.0,1.0,darrell1317,1533585,Darrell,darrell1317,Vancouver British Columbia
+269,US,1509646.0,1.0,nms,1533585,NMS,nms,Minneapolis MN
+270,CA,121113.0,1.0,john2899,1533585,John,john2899,Regina Saskatchewan
+271,GB,1426413.0,1.0,nicholasluder,1533585,Nicholas,nicholasluder,London
+272,NO,543455.0,1.0,trolltech4460,1533585,Trolltech Foundation,trolltech4460,Oslo
+273,CA,84336.0,1.0,Snak,1533585,Snak,snak,Markham Ontario
+274,US,720534.0,1.0,xveganx,1533585,Austin,xveganx,Cardiff-by-the-Sea California
+275,US,634824.0,1.0,aaron83574977,1533585,Aaron,aaron83574977,San Francisco Bay Area CA
+276,,726677.0,1.0,,1533585,Anonymous,,
+277,US,1573542.0,1.0,p2pcassandrejade,1533585,Poverty2Prosperity,p2pcassandrejade,Bay Area CA
+278,US,2800901.0,1.0,themissionbeltco,1533591,Mission Belt Co,themissionbeltco,Orem Utah
+279,CA,400395.0,1.0,anne4461,1533591,Anne,anne4461,Fort Frances Ontario
+280,,726677.0,1.0,melanie20556390,1533588,Melanie,melanie20556390,
+281,CA,1323101.0,1.0,davefay7107,1533588,Dave & Fay,davefay7107,Calgary Alberta
+282,US,726677.0,1.0,will8174,1533588,Will,will8174,Houston TX
+283,US,581038.0,1.0,robert2288,1533588,Robert,robert2288,San Francisco CA
+284,NL,1166418.0,1.0,robertgetreuer,1533588,Robert,robertgetreuer,Tuk
+285,AU,2703920.0,1.0,otisb,1533588,Otis,otisb,Sydney NSW
+286,CA,80087.0,1.0,veronica5306,1533588,Veronica&Jim,veronica5306,Courtice Ontario
+287,US,158402.0,1.0,roger,1533588,roger,roger,SAN CARLOS CA
+288,US,2800901.0,1.0,themissionbeltco,1533579,Mission Belt Co,themissionbeltco,Orem Utah
+289,,726677.0,1.0,alaqsa,1533579,Al AQSA,alaqsa,
+290,,726677.0,1.0,michael7697,1533586,Michael,michael7697,
+291,US,61228.0,1.0,timothy6630,1533586,Timothy,timothy6630,Charlotte NC
+292,AU,191996.0,1.0,ken7190,1533586,KenW,ken7190,Adelaide SA
+293,,726677.0,1.0,,1533586,Anonymous,,
+294,US,2800901.0,1.0,themissionbeltco,1533586,Mission Belt Co,themissionbeltco,Orem Utah
+295,DE,2134388.0,1.0,michaschmitz,1533586,Michael,michaschmitz,Bonn
+296,,1291527.0,1.0,garey,1533575,Garey,garey,
+297,,1101493.0,1.0,jean6554,1533575,Jean,jean6554,
+298,,726677.0,1.0,,1533575,Anonymous,,
+299,US,419269.0,1.0,chriswang,1533575,Chris,chriswang,Berkeley Heights NJ
+300,,726677.0,1.0,,1533575,Anonymous,,
+301,,726677.0,1.0,,1533575,Anonymous,,
+302,NZ,1381724.0,1.0,scottnz,1533575,Scott,scottnz,Christchurch Canterbury
+303,,726677.0,1.0,mariana27434312,1533575,Mariana,mariana27434312,
+304,US,726677.0,1.0,martin1578,1533575,Martin,martin1578,Syosset NY
+305,US,726677.0,1.0,carrie7682,1533575,Carrie,carrie7682,Boulder CO
+306,US,531790.0,1.0,barry1011,1533575,Maureen & Barry,barry1011,Bath Maine
+307,US,581038.0,1.0,robert2288,1533575,Robert,robert2288,San Francisco CA
+308,,726677.0,1.0,tomanddeirdre7255,1533575,Tom and Deirdre,tomanddeirdre7255,
+309,US,634824.0,1.0,aaron83574977,1533575,Aaron,aaron83574977,San Francisco Bay Area CA
+310,GB,2054390.0,1.0,george22694164,1533575,George,george22694164,
+311,US,2800901.0,1.0,themissionbeltco,1533575,Mission Belt Co,themissionbeltco,Orem Utah
+312,,726677.0,1.0,,1533575,Anonymous,,
+313,CH,631773.0,1.0,jonasbbg,1533575,Jonas,jonasbbg,region of Basel
+314,,726677.0,1.0,hal8355,1533578,Hal,hal8355,
+315,,726677.0,1.0,anonymoussupporter4391,1533576,Anonymous Supporter,anonymoussupporter4391,
+316,,726677.0,1.0,,1533576,Anonymous,,
+317,AU,1934927.0,1.0,howard8919,1533576,Howard,howard8919,Ringwood East Victoria
+318,US,826725.0,1.0,sylvia1521,1533564,Sylvia,sylvia1521,Fountain Valley California
+319,US,2800901.0,1.0,themissionbeltco,1533564,Mission Belt Co,themissionbeltco,Orem Utah
+320,US,726677.0,1.0,steve9861,1533564,Steve,steve9861,Louisville Kentucky
+321,,726677.0,1.0,tom6112,1533568,Tom,tom6112,
+322,US,76689.0,1.0,impact5673,1533568,IMPACT Incorporated !,impact5673,
+323,AU,1170874.0,1.0,aliceoliver,1533568,Alice,aliceoliver,Kalgoorlie WA
+324,NL,326956.0,1.0,tom8330,1533568,Tom,tom8330,Zeist Utrecht
+325,,726677.0,1.0,devon7333,1533568,Devon,devon7333,
+326,US,419269.0,1.0,chriswang,1533568,Chris,chriswang,Berkeley Heights NJ
+327,US,1509646.0,1.0,nms,1533568,NMS,nms,Minneapolis MN
+328,US,1413095.0,1.0,clifford4683,1533568,Clifford,clifford4683,Atlanta GA
+329,US,634824.0,1.0,aaron83574977,1533568,Aaron,aaron83574977,San Francisco Bay Area CA
+330,US,531790.0,1.0,barry1011,1533568,Maureen & Barry,barry1011,Bath Maine
+331,GB,1426413.0,1.0,nicholasluder,1533568,Nicholas,nicholasluder,London
+332,,726677.0,1.0,,1533568,Anonymous,,
+333,,726677.0,1.0,,1533568,Anonymous,,
+334,US,2800901.0,1.0,themissionbeltco,1533569,Mission Belt Co,themissionbeltco,Orem Utah
+335,,726677.0,1.0,alaqsa,1533569,Al AQSA,alaqsa,
+336,,726677.0,1.0,alaqsa,1533561,Al AQSA,alaqsa,
+337,US,2800901.0,1.0,themissionbeltco,1533561,Mission Belt Co,themissionbeltco,Orem Utah
+338,,726677.0,1.0,mary5872,1533561,Mary,mary5872,
+339,US,2800901.0,1.0,themissionbeltco,1533547,Mission Belt Co,themissionbeltco,Orem Utah
+340,,726677.0,1.0,timo3183,1533547,Timo,timo3183,
+341,US,918055.0,1.0,wellshire3457,1533527,Wellshire,wellshire3457,Denver Colorado
+342,US,2800901.0,1.0,themissionbeltco,1533527,Mission Belt Co,themissionbeltco,Orem Utah
+343,US,726677.0,1.0,steve9861,1533527,Steve,steve9861,Louisville Kentucky
+344,,726677.0,1.0,timo3183,1533528,Timo,timo3183,
+345,CH,182498.0,1.0,tom5360,1533528,Leeners Family,tom5360,Uster
+346,US,2799164.0,1.0,lendiogives,1533528,Lendio Gives,lendiogives,SOUTH JORDAN UT
+347,,2679549.0,1.0,laura15262916,1533528,Laura,laura15262916,
+348,IE,1728924.0,1.0,catherinechristof3623,1533528,Catherine & Christof - MBC Rentals,catherinechristof3623,
+349,US,76689.0,1.0,impact5673,1533528,IMPACT Incorporated !,impact5673,
+350,NL,326956.0,1.0,tom8330,1533528,Tom,tom8330,Zeist Utrecht
+351,US,1509646.0,1.0,nms,1533528,NMS,nms,Minneapolis MN
+352,,726677.0,1.0,anonymoussupporter4391,1533528,Anonymous Supporter,anonymoussupporter4391,
+353,,726677.0,1.0,alexander3666,1533528,Alexander,alexander3666,
+354,,726677.0,1.0,ursula9685,1533484,Ursula,ursula9685,
+355,DE,726677.0,1.0,ingo2254,1533484,Ingo,ingo2254,
+356,DE,1654311.0,1.0,thomas3059,1533484,Thomas,thomas3059,
+357,,726677.0,1.0,,1533484,Anonymous,,
+358,,2679549.0,1.0,laura15262916,1533484,Laura,laura15262916,
+359,DE,1654303.0,1.0,lisa29291408,1533484,Lisa,lisa29291408,Bavaria
+360,US,537735.0,1.0,jeremyporter,1533484,Jeremy,jeremyporter,Chicago IL
+361,,726677.0,1.0,tom6112,1533484,Tom,tom6112,
+362,US,76689.0,1.0,impact5673,1533484,IMPACT Incorporated !,impact5673,
+363,US,836605.0,1.0,rich6705,1533484,Rich,rich6705,Sandy Hook CT
+364,US,634824.0,1.0,aaron83574977,1533484,Aaron,aaron83574977,San Francisco Bay Area CA
+365,NL,326956.0,1.0,tom8330,1533484,Tom,tom8330,Zeist Utrecht
+366,US,1509646.0,1.0,nms,1533484,NMS,nms,Minneapolis MN
+367,US,419269.0,1.0,chriswang,1533484,Chris,chriswang,Berkeley Heights NJ
+368,GB,1426413.0,1.0,nicholasluder,1533484,Nicholas,nicholasluder,London
+369,,726677.0,1.0,,1533484,Anonymous,,
+370,US,1503189.0,1.0,kwei7301,1533484,Kwei,kwei7301,Pasadena CA
+371,,726677.0,1.0,,1533484,Anonymous,,
+372,US,726677.0,1.0,bill6047,1533484,Bill,bill6047,Chesapeake VA
+373,,726677.0,1.0,andrew1301,1533518,Andrew,andrew1301,
+374,,726677.0,1.0,mary5872,1533518,Mary,mary5872,
+375,US,2800901.0,1.0,themissionbeltco,1533518,Mission Belt Co,themissionbeltco,Orem Utah
+376,,1438731.0,1.0,jodi3517,1533518,Jodi,jodi3517,
+377,,726677.0,1.0,,1533508,Anonymous,,
+378,US,946406.0,1.0,P2PScottBanister,1533508,Poverty2Prosperity.org Scott Banister,p2pscottbanister,San Francisco CA
+379,US,1509646.0,1.0,nms,1533508,NMS,nms,Minneapolis MN
+380,,726677.0,1.0,anonymoussupporter4391,1533508,Anonymous Supporter,anonymoussupporter4391,
+381,US,954570.0,1.0,toni3998,1533508,Toni,toni3998,Tucson AZ
+382,US,826725.0,1.0,sylvia1521,1533500,Sylvia,sylvia1521,Fountain Valley California
+383,US,2800901.0,1.0,themissionbeltco,1533500,Mission Belt Co,themissionbeltco,Orem Utah
+384,US,726677.0,1.0,steve9861,1533500,Steve,steve9861,Louisville Kentucky
+385,,726677.0,1.0,pearl9599,1533498,Pearl,pearl9599,
+386,,2419673.0,1.0,william75888156,1533498,William,william75888156,
+387,US,1509646.0,1.0,nms,1533498,NMS,nms,Minneapolis MN
+388,,726677.0,1.0,anonymoussupporter4391,1533498,Anonymous Supporter,anonymoussupporter4391,
+389,US,2115254.0,1.0,wick,1533498,Pam,wick,Avon Park FL
+390,US,726677.0,1.0,james8747,1533469,james,james8747,fenton MO
+391,CZ,531337.0,1.0,mhumpolec,1533469,Martin,mhumpolec,Praha 4 NA
+392,,726677.0,1.0,marion6642,1533469,Marion,marion6642,
+393,,726677.0,1.0,sheree8192,1533469,Sheree,sheree8192,
+394,,726677.0,1.0,,1533469,Anonymous,,
+395,US,726677.0,1.0,curtis6458,1533469,Curtis,curtis6458,Carrollton TX
+396,CH,182498.0,1.0,tom5360,1533469,Leeners Family,tom5360,Uster
+397,FI,726677.0,1.0,hattaraa24601,1533469,S,hattaraa24601,
+398,GB,2225091.0,1.0,mobilez,1533469,★ mobilez ★,mobilez,
+399,US,726677.0,1.0,david17683861,1533469,David,david17683861,Anaheim Hills CA
+400,,726677.0,1.0,yancy1524,1533469,YANCY,yancy1524,
+401,CH,726677.0,1.0,sibylle7253,1533469,Sibylle,sibylle7253,Zürich
+402,,726677.0,1.0,,1533469,Anonymous,,
+403,,726677.0,1.0,,1533469,Anonymous,,
+404,US,452660.0,1.0,timothy3787,1533469,Tim,timothy3787,Chelmsford MA
+405,SE,21390.0,1.0,magdalena2314,1533469,Magdalena,magdalena2314,Stockholm
+406,US,28442.0,1.0,teddy5962,1533469,Teddy,teddy5962,Rockville MD
+407,NL,656907.0,1.0,cees3295,1533469,Cees,cees3295,Deventer
+408,US,726677.0,1.0,martin1578,1533469,Martin,martin1578,Syosset NY
+409,CA,1845553.0,1.0,garry1445,1533469,Garry,garry1445,Abbotsford British Columbia
+410,US,548478.0,1.0,sam9812,1533469,Sam,sam9812,Keezletown VA
+411,,1740627.0,1.0,alan2231,1533469,Alan,alan2231,
+412,,726677.0,1.0,andrew1301,1533469,Andrew,andrew1301,
+413,CA,84336.0,1.0,Snak,1533469,Snak,snak,Markham Ontario
+414,,1916708.0,1.0,jeff8252,1533469,Jeff,jeff8252,
+415,US,1485904.0,1.0,daniel2671,1533469,Daniel,daniel2671,Charlotte NC
+416,,726677.0,1.0,mary5872,1533469,Mary,mary5872,
+417,US,726677.0,1.0,bill6047,1533469,Bill,bill6047,Chesapeake VA
+418,US,2800901.0,1.0,themissionbeltco,1533469,Mission Belt Co,themissionbeltco,Orem Utah
+419,,726677.0,1.0,neven5819,1533469,Neven,neven5819,
+420,US,2800901.0,1.0,themissionbeltco,1533480,Mission Belt Co,themissionbeltco,Orem Utah
+421,US,726677.0,1.0,martin1578,1533480,Martin,martin1578,Syosset NY
+422,US,2736282.0,1.0,jason19484793,1533479,Jason,jason19484793,
+423,FR,2406607.0,1.0,nele4274,1533479,Nele,nele4274,
+424,NL,326956.0,1.0,tom8330,1533479,Tom,tom8330,Zeist Utrecht
+425,US,1509646.0,1.0,nms,1533479,NMS,nms,Minneapolis MN
+426,,726677.0,1.0,anonymoussupporter4391,1533479,Anonymous Supporter,anonymoussupporter4391,
+427,,726677.0,1.0,alexander3666,1533479,Alexander,alexander3666,
+428,PL,224829.0,1.0,barbara7297,1533471,Barbara,barbara7297,Warszawa
+429,,726677.0,1.0,,1533471,Anonymous,,
+430,US,1509646.0,1.0,nms,1533471,NMS,nms,Minneapolis MN
+431,,726677.0,1.0,anonymoussupporter4391,1533471,Anonymous Supporter,anonymoussupporter4391,
+432,NL,1206175.0,1.0,eddyphil,1533471,Eddy,eddyphil,Rotterdam
+433,EE,336038.0,1.0,anti3401,1533463,Anti Veeranna,anti3401,Tallinn
+434,,1438731.0,1.0,jodi3517,1533467,Jodi,jodi3517,
+435,US,2800901.0,1.0,themissionbeltco,1533467,Mission Belt Co,themissionbeltco,Orem Utah
+436,,726677.0,1.0,,1533467,Anonymous,,
+437,US,1001425.0,1.0,bob4739,1535777,Bob,bob4739,Dallas
+438,,726677.0,1.0,andrewhoffman,1535774,,andrewhoffman,
+439,CA,248350.0,1.0,felixandjulia6570,1535774,Felix and Julia,felixandjulia6570,
+440,,726677.0,1.0,neven5819,1535774,Neven,neven5819,
+441,,494498.0,1.0,gooddogg1,1535774,Good Dogg,gooddogg1,Front Porch
+442,,726677.0,1.0,ben13562941,1535774,Ben,ben13562941,
+443,,726677.0,1.0,,1535774,Anonymous,,
+444,US,455819.0,1.0,garynancy5886,1535774,The Clippingers,garynancy5886,Columbus OH
+445,CA,135581.0,1.0,jake8265,1535774,jake,jake8265,toronto Ontario
+446,US,2800901.0,1.0,themissionbeltco,1533477,Mission Belt Co,themissionbeltco,Orem Utah
+447,US,1096392.0,1.0,amirali5409,1533477,AMIRALI,amirali5409,DALLAS TEXAS
+448,,726677.0,1.0,nathan86995990,1533458,nathan,nathan86995990,
+449,NO,543455.0,1.0,trolltech4460,1533458,Trolltech Foundation,trolltech4460,Oslo
+450,,726677.0,1.0,,1533458,Anonymous,,
+451,,11244.0,1.0,lesley1691,1533457,Lesley,lesley1691,
+452,US,1987404.0,1.0,helen6985,1533457,Helen,helen6985,San Antonio TX
+453,US,593551.0,1.0,steven4878,1533457,Steven,steven4878,Pontiac IL
+454,US,752719.0,1.0,christine7122,1533457,Christine,christine7122,
+455,AU,1597916.0,1.0,allen9403,1533457,Allen,allen9403,Kenwick WA
+456,NO,686035.0,1.0,larspbjo,1533457,Lars,larspbjo,
+457,US,726677.0,1.0,beverly1145,1533457,Beverly,beverly1145,Cincinnati OH
+458,,726677.0,1.0,ellen8089,1533455,Ellen,ellen8089,
+459,,726677.0,1.0,,1533455,Anonymous,,
+460,US,2799164.0,1.0,lendiogives,1533455,Lendio Gives,lendiogives,SOUTH JORDAN UT
+461,US,458521.0,1.0,del4231,1533455,Del,del4231,Garland TX
+462,,726677.0,1.0,doug8338,1533455,Doug,doug8338,
+463,US,726677.0,1.0,tom1045,1533455,Tom,tom1045,Chicago IL
+464,US,709599.0,1.0,henry1806,1533455,Henry,henry1806,
+465,US,2568376.0,1.0,ryana9900,1533455,Ryan,ryana9900,Columbus OH
+466,,1497636.0,1.0,timothy4128,1533455,Timothy,timothy4128,
+467,US,1981839.0,1.0,jhannah,1533455,Jay,jhannah,Omaha NE
+468,,726677.0,1.0,allen9465,1533455,Allen,allen9465,
+469,NL,726677.0,1.0,menno3710,1533455,menno,menno3710,
+470,NL,1847654.0,1.0,wverdoold,1533455,Wilco,wverdoold,Woerden UT
+471,GB,1467048.0,1.0,karl7097,1533455,Karl,karl7097,Hemel Hempstead
+472,US,2463866.0,1.0,john36119312,1533455,John,john36119312,
+473,SE,1395022.0,1.0,stefan7047,1533455,Stefan,stefan7047,Lund
+474,SE,726677.0,1.0,johan8832,1533455,Johan,johan8832,
+475,US,726677.0,1.0,rob3081,1533455,Rob,rob3081,New York NY
+476,,726677.0,1.0,,1533455,Anonymous,,
+477,,726677.0,1.0,,1533455,Anonymous,,
+478,,726677.0,1.0,,1533455,Anonymous,,
+479,AU,1379648.0,1.0,anne4675,1533455,Anne,anne4675,Melbourne Victoria
+480,,726677.0,1.0,,1533455,Anonymous,,
+481,US,1509646.0,1.0,nms,1533455,NMS,nms,Minneapolis MN
+482,,2018800.0,1.0,marwan6962,1533455,Marwan,marwan6962,
+483,,726677.0,1.0,anonymoussupporter4391,1533455,Anonymous Supporter,anonymoussupporter4391,
+484,US,889398.0,1.0,michaelw1358,1533455,Michael W,michaelw1358,Los Angeles CA
+485,US,2580768.0,1.0,reveleesabeth6944,1533450,Rev. EM,reveleesabeth6944,Oakland CA
+486,,726677.0,1.0,alaqsa,1533450,Al AQSA,alaqsa,
+487,US,2859378.0,1.0,martinfamily1064,1533450,Mike Martin,martinfamily1064,Rancho Santa Margarita CA
+488,,2362425.0,1.0,jessica26304605,1533450,Jessica,jessica26304605,
+489,US,2800901.0,1.0,themissionbeltco,1533450,Mission Belt Co,themissionbeltco,Orem Utah
+490,,726677.0,1.0,omar2494,1533450,Omar,omar2494,
+491,SE,1152742.0,1.0,andrea3239,1533447,Andrea,andrea3239,Stockholm Stockholm
+492,CA,1186231.0,1.0,wendell6320,1533447,Wendell,wendell6320,Rothesay New Brunswick
+493,US,1142204.0,1.0,jmuMatador,1533447,Ryan S,jmumatador,Fairfax VA
+494,,726677.0,1.0,kivasupporter6928,1533447,Kiva Supporter,kivasupporter6928,
+495,,726677.0,1.0,walter48667338,1533447,Walter,walter48667338,
+496,SE,1429831.0,1.0,oddfellowsweden,1533449,Odd Fellow Sweden,oddfellowsweden,Stockholm
+497,,726677.0,1.0,kevin4031,1533449,Kevin,kevin4031,
+498,,726677.0,1.0,,1533440,Anonymous,,
+499,US,158388.0,1.0,june7708,1533440,June,june7708,Woodside CA
+500,DE,151007.0,1.0,jan8763,1533440,Jan,jan8763,Hamburg
+501,CH,104137.0,1.0,martin2575,1533443,Martin,martin2575,Zurich
+502,,726677.0,1.0,kevin4031,1533443,Kevin,kevin4031,
+503,US,2412031.0,1.0,rachel51489031,1533444,Rachel,rachel51489031,
+504,NL,1061611.0,1.0,wim1189,1533444,Wim,wim1189,
+505,,726677.0,1.0,,1533444,Anonymous,,
+506,,726677.0,1.0,,1533444,Anonymous,,
+507,TH,1478056.0,1.0,jangoyvaerts,1533444,Jan,jangoyvaerts,Phuket
+508,US,786200.0,1.0,linda6656,1533444,Linda,linda6656,Cambridge MA
+509,US,2091950.0,1.0,nell8498,1533441,Nell,nell8498,
+510,CH,104137.0,1.0,martin2575,1533441,Martin,martin2575,Zurich
+511,US,158388.0,1.0,june7708,1533441,June,june7708,Woodside CA
+512,AU,726677.0,1.0,timothyneal,1533442,Tim,timothyneal,Cherrybrook New South Wales
+513,US,2859350.0,1.0,bryna2035,1533442,Bryna,bryna2035,VA
+514,,726677.0,1.0,,1533442,Anonymous,,
+515,,726677.0,1.0,sabrina5682,1533442,Sabrina,sabrina5682,
+516,CH,104137.0,1.0,martin2575,1533442,Martin,martin2575,Zurich
+517,,726677.0,1.0,,1533442,Anonymous,,
+518,,726677.0,1.0,,1533442,Anonymous,,
+519,AU,726677.0,1.0,jacob60116369,1533442,Jacob,jacob60116369,Uraidla South Australia
+520,SE,1429831.0,1.0,oddfellowsweden,1533442,Odd Fellow Sweden,oddfellowsweden,Stockholm
+521,NL,488067.0,1.0,markjansen,1533442,Mark Jansen,markjansen,Arnhem
+522,,726677.0,1.0,,1533442,Anonymous,,
+523,US,158388.0,1.0,june7708,1533442,June,june7708,Woodside CA
+524,,726677.0,1.0,mariam4468,1533426,Mariam,mariam4468,
+525,US,1509646.0,1.0,nms,1533426,NMS,nms,Minneapolis MN
+526,,726677.0,1.0,anonymoussupporter4391,1533426,Anonymous Supporter,anonymoussupporter4391,
+527,CZ,531337.0,1.0,mhumpolec,1533426,Martin,mhumpolec,Praha 4 NA
+528,AU,1597916.0,1.0,allen9403,1533411,Allen,allen9403,Kenwick WA
+529,,726677.0,1.0,jes2138,1533414,Jes,jes2138,
+530,US,1431045.0,1.0,brent7866,1533414,Brent,brent7866,New York NY
+531,,726677.0,1.0,kivasupporter6928,1533414,Kiva Supporter,kivasupporter6928,
+532,US,303043.0,1.0,eileen2153,1533414,Eileen,eileen2153,American Fork UT
+533,US,726677.0,1.0,will8174,1533414,Will,will8174,Houston TX
+534,,726677.0,1.0,anonymoussupporter9222,1533414,Anonymous Supporter,anonymoussupporter9222,
+535,US,2364490.0,1.0,kbk,1533414,Krishna,kbk,Nashua NH
+536,NL,326956.0,1.0,tom8330,1533412,Tom,tom8330,Zeist Utrecht
+537,US,1509646.0,1.0,nms,1533412,NMS,nms,Minneapolis MN
+538,US,19942.0,1.0,ellen4120,1533412,Ellen,ellen4120,Lynn MA
+539,,726677.0,1.0,,1533412,Anonymous,,
+540,,726677.0,1.0,anonymoussupporter4391,1533412,Anonymous Supporter,anonymoussupporter4391,
+541,US,2568376.0,1.0,ryana9900,1533412,Ryan,ryana9900,Columbus OH
+542,US,726677.0,1.0,llh,1532159,L&L,llh,New York City NY
+543,AU,2026788.0,1.0,peter61334733,1532159,Peter Rodgers,peter61334733,Bonny Hills New South Wales
+544,FR,92533.0,1.0,howard4162,1532159,Howard & Jillian,howard4162,Vence
+545,,726677.0,1.0,angela8856,1532159,Angela,angela8856,
+546,GB,726677.0,1.0,alasdair3685,1532159,Ali,alasdair3685,Glasgow
+547,,726677.0,1.0,,1532159,Anonymous,,
+548,NL,361689.0,1.0,josy6466,1532159,Josie,josy6466,Raalte
+549,US,2800901.0,1.0,themissionbeltco,1533407,Mission Belt Co,themissionbeltco,Orem Utah
+550,,726677.0,1.0,,1533407,Anonymous,,
+551,,726677.0,1.0,,1531992,Anonymous,,
+552,US,1509646.0,1.0,nms,1531992,NMS,nms,Minneapolis MN
+553,HK,1235981.0,1.0,antonio6654,1531992,Antonio,antonio6654,Hong Kong
+554,,726677.0,1.0,,1531992,Anonymous,,
+555,US,2364766.0,1.0,brooks4629,1531992,Brooks,brooks4629,
+556,,726677.0,1.0,,1531992,Anonymous,,
+557,,726677.0,1.0,sean7206,1531992,sean,sean7206,
+558,GB,726677.0,1.0,nancy8742,1531992,Nancy,nancy8742,Market Drayton Shropshire
+559,,726677.0,1.0,,1531992,Anonymous,,
+560,US,249724.0,1.0,edmund7260,1531992,Edmund,edmund7260,River Forest IL
+561,DE,725445.0,1.0,peter3613,1531992,Peter,peter3613,Hamburg
+562,,726677.0,1.0,tomanddeirdre7255,1533399,Tom and Deirdre,tomanddeirdre7255,
+563,US,2244349.0,1.0,thomas2019,1533399,Thomas,thomas2019,Columbia SC
+564,,726677.0,1.0,rocky8583,1533399,Rocky,rocky8583,
+565,US,1403176.0,1.0,jason3757,1533399,Jason,jason3757,Happy Valley Oregon
+566,US,1509646.0,1.0,nms,1533399,NMS,nms,Minneapolis MN
+567,,726677.0,1.0,axel9265,1533399,Axel,axel9265,
+568,AU,726677.0,1.0,adonicus,1533399,Adonicus,adonicus,
+569,,726677.0,1.0,anonymoussupporter4391,1533399,Anonymous Supporter,anonymoussupporter4391,
+570,PT,2759485.0,1.0,pauloaguia,1533399,Paulo,pauloaguia,Maia
+571,DK,380121.0,1.0,leif9354,1533400,Leif,leif9354,Solrod Strand
+572,DK,2101274.0,1.0,susanne4325,1533400,Susanne,susanne4325,
+573,,726677.0,1.0,ardathandreagan9961,1533400,Ardath and Reagan,ardathandreagan9961,
+574,US,726677.0,1.0,robert6997,1533400,robert,robert6997,sarasota FL
+575,HK,973482.0,1.0,fareastindustry9936,1533400,Far East Industry,fareastindustry9936,Hong Kong
+576,,726677.0,1.0,jane17814354,1533400,EY,jane17814354,
+577,US,889398.0,1.0,michaelw1358,1533400,Michael W,michaelw1358,Los Angeles CA
+578,US,2800901.0,1.0,themissionbeltco,1533403,Mission Belt Co,themissionbeltco,Orem Utah
+579,,726677.0,1.0,alaqsa,1533403,Al AQSA,alaqsa,
+580,,726677.0,1.0,,1532156,Anonymous,,
+581,,726677.0,1.0,henriette3969,1532156,Henriette,henriette3969,
+582,US,898377.0,1.0,johnburroughsschoo2788,1532156,John Burroughs School,johnburroughsschoo2788,Saint Louis MO
+583,US,726677.0,1.0,richt,1532156,Richard,richt,Seattle Washington
+584,US,436526.0,1.0,james3723,1532156,James,james3723,Saint Louis MO
+585,CA,2256269.0,1.0,adammcnamara,1532156,Adam,adammcnamara,Toronto ON
+586,FR,198299.0,1.0,pascal6695,1532156,pascal,pascal6695,Chalon sur Saône Europe
+587,,726677.0,1.0,,1532156,Anonymous,,
+588,,726677.0,1.0,,1532156,Anonymous,,
+589,,726677.0,1.0,,1532156,Anonymous,,
+590,DE,725445.0,1.0,peter3613,1532156,Peter,peter3613,Hamburg
+591,,726677.0,1.0,,1533396,Anonymous,,
+592,US,2800901.0,1.0,themissionbeltco,1533396,Mission Belt Co,themissionbeltco,Orem Utah
+593,NL,726677.0,1.0,robert5130,1533396,Robert,robert5130,
+594,GB,1654009.0,1.0,david4678,1533390,David,david4678,Bury Lancashire
+595,US,712142.0,1.0,heather4545,1533390,Heather,heather4545,Honolulu HI
+596,US,158388.0,1.0,june7708,1533390,June,june7708,Woodside CA
+597,DE,362455.0,1.0,oliver9708,1533390,Oliver,oliver9708,Bochum
+598,,726677.0,1.0,,1533390,Anonymous,,
+599,FR,92533.0,1.0,howard4162,1533390,Howard & Jillian,howard4162,Vence
+600,,726677.0,1.0,zac8695,1533380,Zac,zac8695,
+601,US,860590.0,1.0,Adjwilley,1533380,Anthony,adjwilley,Pleasant Grove UT
+602,,726677.0,1.0,,1533380,Anonymous,,
+603,US,1218313.0,1.0,ian39333319,1533380,Ian,ian39333319,Cary North Carolina
+604,CH,104137.0,1.0,martin2575,1533382,Martin,martin2575,Zurich
+605,SE,1886580.0,1.0,maud7937,1533382,Maud,maud7937,
+606,US,726677.0,1.0,amy3645,1533382,Amy,amy3645,New York NY
+607,US,1166457.0,1.0,suvir,1533382,Suvir,suvir,Atlanta GA
+608,AU,726677.0,1.0,jacob60116369,1533382,Jacob,jacob60116369,Uraidla South Australia
+609,US,2025798.0,1.0,vanhara,1533382,John,vanhara,Las Vegas NV
+610,AU,304653.0,1.0,angela5113,1533382,Angela,angela5113,Coolum Queensland
+611,,726677.0,1.0,,1533382,Anonymous,,
+612,US,158388.0,1.0,june7708,1533382,June,june7708,Woodside CA
+613,US,2622978.0,1.0,susan2633,1533387,SusanNepaliKeroseneQueue,susan2633,Urbana Illinois
+614,AU,1184051.0,1.0,elma1781,1533387,Elma Stonefield,elma1781,Gold Coast QLD
+615,CH,104137.0,1.0,martin2575,1533387,Martin,martin2575,Zurich
+616,,726677.0,1.0,chris9155,1533387,chris,chris9155,
+617,,726677.0,1.0,,1533387,Anonymous,,
+618,,726677.0,1.0,,1533387,Anonymous,,
+619,US,2025798.0,1.0,vanhara,1533387,John,vanhara,Las Vegas NV
+620,US,158388.0,1.0,june7708,1533387,June,june7708,Woodside CA
+621,SE,1429831.0,1.0,oddfellowsweden,1533387,Odd Fellow Sweden,oddfellowsweden,Stockholm
+622,SE,1319413.0,1.0,jesper9307,1533387,Jesper,jesper9307,Limhamn
+623,,1934022.0,1.0,katya6759,1533391,Katya,katya6759,
+624,AU,1597916.0,1.0,allen9403,1533391,Allen,allen9403,Kenwick WA
+625,US,1509646.0,1.0,nms,1533391,NMS,nms,Minneapolis MN
+626,,726677.0,1.0,anonymoussupporter4391,1533391,Anonymous Supporter,anonymoussupporter4391,
+627,US,2568376.0,1.0,ryana9900,1533391,Ryan,ryana9900,Columbus OH
+628,US,726677.0,1.0,will8174,1533377,Will,will8174,Houston TX
+629,CH,631773.0,1.0,jonasbbg,1533377,Jonas,jonasbbg,region of Basel
+630,US,487887.0,1.0,martin6956,1533375,Martin,martin6956,Albuquerque NM
+631,CH,127008.0,1.0,nicola1093,1533375,Nicolao,nicola1093,Bellinzona
+632,US,726677.0,1.0,jbluef,1533375,Jesse,jbluef,Jax Beach FL
+633,,1876020.0,1.0,daniel9976,1533375,Daniel,daniel9976,
+634,,1514261.0,1.0,alice6766,1533375,Alice,alice6766,Flemington NJ
+635,,726677.0,1.0,,1533375,Anonymous,,
+636,,1657825.0,1.0,phyllis5433,1533375,Phyllis,phyllis5433,San Francisco CA
+637,,726677.0,1.0,mike6480,1533368,Mike,mike6480,
+638,,726677.0,1.0,susan8120,1533368,Susan,susan8120,
+639,US,2800901.0,1.0,themissionbeltco,1533368,Mission Belt Co,themissionbeltco,Orem Utah
+640,,726677.0,1.0,gary44954255,1533368,Gary,gary44954255,
+641,US,1218313.0,1.0,ian39333319,1533368,Ian,ian39333319,Cary North Carolina
+642,US,726677.0,1.0,will8174,1533368,Will,will8174,Houston TX
+643,US,726677.0,1.0,alex45341593,1533368,Alex,alex45341593,
+644,US,158388.0,1.0,june7708,1533366,June,june7708,Woodside CA
+645,AU,2649732.0,1.0,geoff9014,1533366,Geoff,geoff9014,Melbourne Victoria
+646,,726677.0,1.0,,1533366,Anonymous,,
+647,JP,1270725.0,1.0,shibazo,1533366,Shibazo,shibazo,Chiba
